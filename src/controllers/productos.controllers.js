@@ -78,7 +78,7 @@ categorias = [
     },
     {
         nombre: "Empanadas",
-        img: "../../../assets/img/Empanadas.jpg"
+        img: "../../../assets/img/Empanadas.jpeg"
     },
     {
         nombre: "Hamburguesas y Sandwichs",
