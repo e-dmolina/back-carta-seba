@@ -74,31 +74,35 @@ productosctl.getCategorias = (req, res) => {
 categorias = [
     {
         nombre: "Pizzas",
-        img: "../../../assets/img/Pizzas.jpg"
+        img: "../../../assets/img/Pizzas.jpeg"
     },
     {
         nombre: "Empanadas",
         img: "../../../assets/img/Empanadas.jpeg"
     },
     {
-        nombre: "Hamburguesas y Sandwichs",
-        img: "../../../assets/img/Hamb-sand.jpg"
+        nombre: "Lomos",
+        img: "../../../assets/img/Lomos.jpeg"
     },
     {
-        nombre: "Lomos",
-        img: "../../../assets/img/Lomos.jpg"
+        nombre: "Hamburguesas y Sandwichs",
+        img: "../../../assets/img/Hamb-sand.jpeg"
     },
     {
         nombre: "Papas",
-        img: "../../../assets/img/Papas.jpg"
+        img: "../../../assets/img/Papas.jpeg"
     },
     {
         nombre: "Pollos a la Parrilla",
-        img: "../../../assets/img/pollos.jpeg"
+        img: "../../../assets/img/Pollos.jpeg"
+    },
+    {
+        nombre: "Menus",
+        img: "../../../assets/img/Menus.jpeg"
     },
     {
         nombre: "Bebidas",
-        img: "../../../assets/img/Bebidas.jpg"
+        img: "../../../assets/img/Bebidas.jpeg"
     },
 ]
 
