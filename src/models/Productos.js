@@ -5,7 +5,7 @@ const ProductoSchema = new Schema({
     nombre:{ type:String, required:true, trim:true, unique:true },
     categoria:{ type:String,
                 required:true, 
-                enum:['Pizzas','Empanadas','Hamburguesas y Sandwichs','Lomos','Papas','Bebidas','Pollos a la Parrilla'] },
+                enum:['Pizzas','Empanadas','Hamburguesas y Sandwichs','Lomos','Papas','Bebidas','Pollos a la Parrilla','Menus'] },
     precioCompleto:{ type:String, required:true },
     precioMitad:{ type:String },
     stock:{ type:Number }
